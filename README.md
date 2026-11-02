@@ -1,4 +1,4 @@
-#Voice-Controlled 2D Navigation System (Cognitive Robotics)
+# Voice-Controlled 2D Navigation System (Cognitive Robotics)
 
 A Python-based prototype integrating Speech-to-Text (ASR), intent parsing, and autonomous 2D grid navigation. Developed as a preliminary framework for LLM-driven human-robot interaction (HRI) research.
 
